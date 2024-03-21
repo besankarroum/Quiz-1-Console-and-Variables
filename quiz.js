@@ -32,4 +32,6 @@ else{
 
 
     //Program 4: Largest Number Finder
+let num1 = number prompt ()
+
     </></>
